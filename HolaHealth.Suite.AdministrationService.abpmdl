@@ -1,0 +1,58 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "HolaHealth.Suite.AdministrationService.HttpApi": {
+      "path": "src/HolaHealth.Suite.AdministrationService.HttpApi/HolaHealth.Suite.AdministrationService.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.Application.Contracts": {
+      "path": "src/HolaHealth.Suite.AdministrationService.Application.Contracts/HolaHealth.Suite.AdministrationService.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.Application": {
+      "path": "src/HolaHealth.Suite.AdministrationService.Application/HolaHealth.Suite.AdministrationService.Application.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.Domain.Shared": {
+      "path": "src/HolaHealth.Suite.AdministrationService.Domain.Shared/HolaHealth.Suite.AdministrationService.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.Domain": {
+      "path": "src/HolaHealth.Suite.AdministrationService.Domain/HolaHealth.Suite.AdministrationService.Domain.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.EntityFrameworkCore": {
+      "path": "src/HolaHealth.Suite.AdministrationService.EntityFrameworkCore/HolaHealth.Suite.AdministrationService.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.HttpApi.Client": {
+      "path": "src/HolaHealth.Suite.AdministrationService.HttpApi.Client/HolaHealth.Suite.AdministrationService.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.HttpApi.Host": {
+      "path": "src/HolaHealth.Suite.AdministrationService.HttpApi.Host/HolaHealth.Suite.AdministrationService.HttpApi.Host.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.AdministrationService.TestBase": {
+      "path": "test/HolaHealth.Suite.AdministrationService.TestBase/HolaHealth.Suite.AdministrationService.TestBase.abppkg",
+      "folder": "test"
+    },
+    "HolaHealth.Suite.AdministrationService.Domain.Tests": {
+      "path": "test/HolaHealth.Suite.AdministrationService.Domain.Tests/HolaHealth.Suite.AdministrationService.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests": {
+      "path": "test/HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests/HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "HolaHealth.Suite.AdministrationService.Application.Tests": {
+      "path": "test/HolaHealth.Suite.AdministrationService.Application.Tests/HolaHealth.Suite.AdministrationService.Application.Tests.abppkg",
+      "folder": "test"
+    }
+  }
+}
