@@ -1,34 +1,45 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.HttpApi", "src\HolaHealth.Suite.AdministrationService.HttpApi\HolaHealth.Suite.AdministrationService.HttpApi.csproj", "{478CC87D-7489-4B1F-A8D5-BDB372CE5BBA}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.HttpApi", "src\HolaHealth.Suite.AdministrationService.HttpApi\HolaHealth.Suite.AdministrationService.HttpApi.csproj", "{478CC87D-7489-4B1F-A8D5-BDB372CE5BBA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Application.Contracts", "src\HolaHealth.Suite.AdministrationService.Application.Contracts\HolaHealth.Suite.AdministrationService.Application.Contracts.csproj", "{A65BB77B-ACFA-40F9-8D4C-98BD70C6ADFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Application.Contracts", "src\HolaHealth.Suite.AdministrationService.Application.Contracts\HolaHealth.Suite.AdministrationService.Application.Contracts.csproj", "{A65BB77B-ACFA-40F9-8D4C-98BD70C6ADFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Application", "src\HolaHealth.Suite.AdministrationService.Application\HolaHealth.Suite.AdministrationService.Application.csproj", "{58924D09-3ACA-4883-BB95-262826115F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Application", "src\HolaHealth.Suite.AdministrationService.Application\HolaHealth.Suite.AdministrationService.Application.csproj", "{58924D09-3ACA-4883-BB95-262826115F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Domain.Shared", "src\HolaHealth.Suite.AdministrationService.Domain.Shared\HolaHealth.Suite.AdministrationService.Domain.Shared.csproj", "{72F62393-E454-4848-8E9E-61AF408FBB6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Domain.Shared", "src\HolaHealth.Suite.AdministrationService.Domain.Shared\HolaHealth.Suite.AdministrationService.Domain.Shared.csproj", "{72F62393-E454-4848-8E9E-61AF408FBB6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Domain", "src\HolaHealth.Suite.AdministrationService.Domain\HolaHealth.Suite.AdministrationService.Domain.csproj", "{7A801E27-D1FB-4578-82CF-89580D1A7DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Domain", "src\HolaHealth.Suite.AdministrationService.Domain\HolaHealth.Suite.AdministrationService.Domain.csproj", "{7A801E27-D1FB-4578-82CF-89580D1A7DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.EntityFrameworkCore", "src\HolaHealth.Suite.AdministrationService.EntityFrameworkCore\HolaHealth.Suite.AdministrationService.EntityFrameworkCore.csproj", "{9162A507-DB42-424D-8665-E89A28C80CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.EntityFrameworkCore", "src\HolaHealth.Suite.AdministrationService.EntityFrameworkCore\HolaHealth.Suite.AdministrationService.EntityFrameworkCore.csproj", "{9162A507-DB42-424D-8665-E89A28C80CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.HttpApi.Client", "src\HolaHealth.Suite.AdministrationService.HttpApi.Client\HolaHealth.Suite.AdministrationService.HttpApi.Client.csproj", "{653F368C-8493-441E-9E16-DA159D21319A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.HttpApi.Client", "src\HolaHealth.Suite.AdministrationService.HttpApi.Client\HolaHealth.Suite.AdministrationService.HttpApi.Client.csproj", "{653F368C-8493-441E-9E16-DA159D21319A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.HttpApi.Host", "src\HolaHealth.Suite.AdministrationService.HttpApi.Host\HolaHealth.Suite.AdministrationService.HttpApi.Host.csproj", "{88265D4B-7E55-430E-BBA0-C9B307422B41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.HttpApi.Host", "src\HolaHealth.Suite.AdministrationService.HttpApi.Host\HolaHealth.Suite.AdministrationService.HttpApi.Host.csproj", "{88265D4B-7E55-430E-BBA0-C9B307422B41}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B9D74482-F05D-4D3A-94E0-A857625C2243}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.TestBase", "test\HolaHealth.Suite.AdministrationService.TestBase\HolaHealth.Suite.AdministrationService.TestBase.csproj", "{C42A7A01-A9CE-478F-8F93-6DD31C12A031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.TestBase", "test\HolaHealth.Suite.AdministrationService.TestBase\HolaHealth.Suite.AdministrationService.TestBase.csproj", "{C42A7A01-A9CE-478F-8F93-6DD31C12A031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Domain.Tests", "test\HolaHealth.Suite.AdministrationService.Domain.Tests\HolaHealth.Suite.AdministrationService.Domain.Tests.csproj", "{C09F38D0-6EFF-4B22-B3BA-2AED50132F09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Domain.Tests", "test\HolaHealth.Suite.AdministrationService.Domain.Tests\HolaHealth.Suite.AdministrationService.Domain.Tests.csproj", "{C09F38D0-6EFF-4B22-B3BA-2AED50132F09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests", "test\HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests\HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests.csproj", "{71C3C478-8DCE-4916-B944-54F36B8DD692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests", "test\HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests\HolaHealth.Suite.AdministrationService.EntityFrameworkCore.Tests.csproj", "{71C3C478-8DCE-4916-B944-54F36B8DD692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Application.Tests", "test\HolaHealth.Suite.AdministrationService.Application.Tests\HolaHealth.Suite.AdministrationService.Application.Tests.csproj", "{CF089201-973C-4936-A240-9ACD2685E1FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Application.Tests", "test\HolaHealth.Suite.AdministrationService.Application.Tests\HolaHealth.Suite.AdministrationService.Application.Tests.csproj", "{CF089201-973C-4936-A240-9ACD2685E1FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaHealth.Suite.AdministrationService.Web", "src\HolaHealth.Suite.AdministrationService.Web\HolaHealth.Suite.AdministrationService.Web.csproj", "{01EC102F-F9D6-4485-A7E5-3C966FCC2567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.AdministrationService.Web", "src\HolaHealth.Suite.AdministrationService.Web\HolaHealth.Suite.AdministrationService.Web.csproj", "{01EC102F-F9D6-4485-A7E5-3C966FCC2567}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.Shared.Localization", "shared\HolaHealth.Suite.Shared.Localization\HolaHealth.Suite.Shared.Localization.csproj", "{3BC096C7-A6CC-4324-9359-B87B1EF16AC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.Shared.Hosting", "shared\HolaHealth.Suite.Shared.Hosting\HolaHealth.Suite.Shared.Hosting.csproj", "{428072F2-57A6-4AE7-827A-C6B7A78A7E51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.Shared.Hosting.Microservices", "shared\HolaHealth.Suite.Shared.Hosting.Microservices\HolaHealth.Suite.Shared.Hosting.Microservices.csproj", "{9497DA25-300E-417A-8958-C230E024C0B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaHealth.Suite.SaasService.EntityFrameworkCore", "saas\services\saas\src\HolaHealth.Suite.SaasService.EntityFrameworkCore\HolaHealth.Suite.SaasService.EntityFrameworkCore.csproj", "{5FA95A7F-A5FC-4509-975E-B7EC6B1399D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -88,6 +99,25 @@ Global
 		{01EC102F-F9D6-4485-A7E5-3C966FCC2567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01EC102F-F9D6-4485-A7E5-3C966FCC2567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01EC102F-F9D6-4485-A7E5-3C966FCC2567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC096C7-A6CC-4324-9359-B87B1EF16AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC096C7-A6CC-4324-9359-B87B1EF16AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC096C7-A6CC-4324-9359-B87B1EF16AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC096C7-A6CC-4324-9359-B87B1EF16AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428072F2-57A6-4AE7-827A-C6B7A78A7E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428072F2-57A6-4AE7-827A-C6B7A78A7E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428072F2-57A6-4AE7-827A-C6B7A78A7E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428072F2-57A6-4AE7-827A-C6B7A78A7E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9497DA25-300E-417A-8958-C230E024C0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9497DA25-300E-417A-8958-C230E024C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9497DA25-300E-417A-8958-C230E024C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9497DA25-300E-417A-8958-C230E024C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA95A7F-A5FC-4509-975E-B7EC6B1399D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA95A7F-A5FC-4509-975E-B7EC6B1399D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA95A7F-A5FC-4509-975E-B7EC6B1399D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA95A7F-A5FC-4509-975E-B7EC6B1399D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{478CC87D-7489-4B1F-A8D5-BDB372CE5BBA} = {ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}
@@ -103,5 +133,12 @@ Global
 		{71C3C478-8DCE-4916-B944-54F36B8DD692} = {B9D74482-F05D-4D3A-94E0-A857625C2243}
 		{CF089201-973C-4936-A240-9ACD2685E1FE} = {B9D74482-F05D-4D3A-94E0-A857625C2243}
 		{01EC102F-F9D6-4485-A7E5-3C966FCC2567} = {ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}
+		{3BC096C7-A6CC-4324-9359-B87B1EF16AC9} = {ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}
+		{428072F2-57A6-4AE7-827A-C6B7A78A7E51} = {ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}
+		{9497DA25-300E-417A-8958-C230E024C0B1} = {ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}
+		{5FA95A7F-A5FC-4509-975E-B7EC6B1399D6} = {ED380D58-ABAE-4F1B-BEA1-7869CCC424F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A69F91B-13DB-4CEE-908B-868EB451C2AB}
 	EndGlobalSection
 EndGlobal
